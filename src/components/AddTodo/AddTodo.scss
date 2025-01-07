@@ -1,0 +1,31 @@
+.AddTodo {
+  margin: 0 auto; 
+  display: flex;
+  justify-content: center;
+  margin: -18px;
+
+  &-Imput {
+    width: 603px;
+    color: #808080;
+    padding-left: 16px;
+    height: 49px;
+    background: #262626;
+    border-radius: 8px 8px 8px 8px;
+
+    ::placeholder {
+      color: #808080;
+    }
+  }
+
+  &-Button {
+    background-color: darkblue;
+    width: 125px;
+    height: 49px;
+    border-radius: 8px 8px 8px 8px;
+    color: #F2F2F2;
+  }
+
+  &-Img{
+    padding: 0 0  0  10px ;
+  }
+}

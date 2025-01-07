@@ -1,0 +1,30 @@
+.Header {
+  width: 1440px;
+  height: 200px;
+  background-color: #000;
+
+  &-Container {
+    display: flex;
+  }
+
+  &-img {
+    margin: 86px 0 12px 591px;
+    width: 21.99px;
+    height: 36.01px;
+  }
+
+  &-Todo {
+    margin: 76px 9px 0  12px;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 48.41px;
+    color: aqua;
+  }
+  &-Name {
+    height: 24px;
+    color: aqua;
+    margin: 96px 0 0 0;
+    font-size: 20px;
+    font-weight: 900;
+  }
+}
