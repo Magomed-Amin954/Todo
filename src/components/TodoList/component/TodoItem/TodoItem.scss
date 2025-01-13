@@ -1,0 +1,17 @@
+.TodoItem {
+  margin: 0 auto;
+  padding-top: 24px;
+  width: 736px;
+  height: 72px;
+  
+  
+  &_His {
+    width: 736px;
+    height: 72px;
+    padding: 16px;
+    border: 2px solid  rgb(22, 21, 21);
+    color: #e1e1e6;
+    border-radius: 8px 8px 8px 8px;
+    background-color: #262626;
+  }
+}

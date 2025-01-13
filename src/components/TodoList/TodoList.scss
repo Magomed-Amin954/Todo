@@ -1,0 +1,16 @@
+.TodoList {
+  &-caunter {
+    display: flex;
+    justify-content: space-between;
+    color: #4ea8de;
+    width: 730px;
+    height: 19px;
+    margin: 0 auto;
+    margin-top: 64px;
+    font-weight: 700;
+  }
+  &-map {
+    margin: 243px  0 0 400px ;
+    color: wheat;
+  }
+}
